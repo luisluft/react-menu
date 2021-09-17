@@ -71,5 +71,29 @@ const menu = [
     img: "./images/item-9.jpeg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: "Broccoli Pesto Pasta",
+    category: "dinner",
+    price: 24.99,
+    img: "https://images.themodernproper.com/billowy-turkey/production/posts/2020/Broccoli-Pesto-Pasta-7.jpg?w=1200&auto=compress%2Cformat&fit=crop&fp-x=0.5&fp-y=0.5&dm=1599768462&s=639a0f7352bd6cccc3d5c90098a546de",
+    desc: `Today, a verdant, bright broccoli pesto pasta that’s as healthy as it is delicious.`,
+  },
+  {
+    id: 11,
+    title: "Baked Salmon with Grapefruit Salad",
+    category: "dinner",
+    price: 32.99,
+    img: "https://images.themodernproper.com/billowy-turkey/production/posts/2014/grapefruit-salmon-salad-3.jpg?w=1200&auto=compress%2Cformat&fit=crop&fp-x=0.5&fp-y=0.5&dm=1599770175&s=bce59e692595f65d57117cbff4ed0e65",
+    desc: `Moist, flaky, melt-in-your-mouth salmon perfection. This is the baked salmon recipe you’ve been waiting for. Oh, and did we mention it cooks in just 15 minutes?!`,
+  },
+  {
+    id: 12,
+    title: "Lemon Chicken",
+    category: "dinner",
+    price: 26.99,
+    img: "https://images.themodernproper.com/billowy-turkey/production/posts/2019/Lemon-Chicken-7.jpg?w=1200&auto=compress%2Cformat&fit=crop&fp-x=0.5&fp-y=0.5&dm=1603455541&s=9a3d84d2eb04a6c8d7ef60bedd297287",
+    desc: `Our easy lemon chicken recipe shines with a sunny, lemony zing. Garlic and herbs—plus a glug of white wine—mean that these juicy, tender chicken breasts are as delicious as they are healthy.`,
+  },
 ];
 export default menu;
